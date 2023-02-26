@@ -43,10 +43,15 @@
     <br>
     <p>Projects</p>
     <div>
+      <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/58f19470-f02a-40fd-afe9-591051608f76/tv-pixel.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230226%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230226T084454Z&X-Amz-Expires=86400&X-Amz-Signature=2fa957784e17e7bbdd25dcddb687455a9bf0c58e47c4f49eba60715e98e66dcf&X-Amz-SignedHeaders=host&x-id=GetObject" width="5%" height="5%"> 
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
       <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d3722777-2425-4a01-a1ac-2bbb8ee194a4/soju.e87a944c950d7df0c63d.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230225%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230225T162037Z&X-Amz-Expires=86400&X-Amz-Signature=afefdff1b6cda31f416fbd951149a368ad1b7dca74474f9523de3f4ca6bd5890&X-Amz-SignedHeaders=host&x-id=GetObject" width="5%" height="5%">
-     <br>
-      <a href="https://www.notion.so/b4b5546ce66b47d9be86bab4f1852b63?pvs=4">방구석포차</a>
-    </div>
+      <br>
+      <a href="https://www.notion.so/85dac6df6fc547698c1b1bcd32059c6a">&nbsp;영화 추천</a>
+      &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
+      <a href="https://www.notion.so/b4b5546ce66b47d9be86bab4f1852b63?pvs=4">&ensp;방구석포차</a>
+     
+    
   </div>
 </div>
 
