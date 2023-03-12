@@ -7,7 +7,7 @@
   프론트엔드 주니어 개발자 김홍민입니다.
   <br>
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="21%">
-</div>
+</div> 
 <br>
 
  ```javascript
