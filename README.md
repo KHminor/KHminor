@@ -4,7 +4,7 @@
   </div>
   삼성 청년 SW 아카데미 8기
   <br> 
-  프론트엔드 주니어 개발자 김홍민입니다.
+  프론트엔드 개발자 김홍민입니다.
   <br>
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="21%">
 </div> 
