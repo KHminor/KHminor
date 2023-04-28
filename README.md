@@ -1,5 +1,5 @@
 <div align="center">
-  <div> 
+  <div>  
     <img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=KHminor's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
   </div>
   삼성 청년 SW 아카데미 8기
