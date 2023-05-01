@@ -47,7 +47,7 @@
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
       <img src="https://file.notion.so/f/s/d3722777-2425-4a01-a1ac-2bbb8ee194a4/soju.e87a944c950d7df0c63d.gif?id=b4b5546c-e66b-47d9-be86-bab4f1852b63&table=block&spaceId=43abc793-c049-4132-a5f3-a88e4151f6ff&expirationTimestamp=1683032080699&signature=ZQNVOKhnNt1p7PeaMSEkdxrbildydlJ7Zz_HFfiBXhc" width="5%" height="5%">
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-      <img src="https://as1.ftcdn.net/v2/jpg/04/08/05/18/1000_F_408051807_XQz8vs6FKDuTQ1wY5RSh97YfYxOuZU5w.jpg" width="5%" height="5%">
+      <img src="https://as2.ftcdn.net/v2/jpg/03/83/09/19/1000_F_383091993_9XH0em7Fz1LPNVe9YjdtowDFyPdCGWPF.jpg" width="5%" height="5%">
       <br>
       <a href="https://www.notion.so/85dac6df6fc547698c1b1bcd32059c6a">&nbsp;영화 추천</a>
       &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
