@@ -43,7 +43,7 @@
     <br>
     <p>Projects</p> 
     <div>
-      <img src="https://file.notion.so/f/s/58f19470-f02a-40fd-afe9-591051608f76/tv-pixel.gif?id=85dac6df-6fc5-4769-8c1b-1bcd32059c6a&table=block&spaceId=43abc793-c049-4132-a5f3-a88e4151f6ff&expirationTimestamp=1683031929967&signature=quuR9HdmTCb1pfWcgbypwP36w6fHNcek9wAB-o8sI4k" width="5%" height="5%"> 
+      <img src="https://media.tenor.com/2Ev0q5G3lGEAAAAC/film-bind.gif" width="5%" height="5%"> 
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
       <img src="https://file.notion.so/f/s/d3722777-2425-4a01-a1ac-2bbb8ee194a4/soju.e87a944c950d7df0c63d.gif?id=b4b5546c-e66b-47d9-be86-bab4f1852b63&table=block&spaceId=43abc793-c049-4132-a5f3-a88e4151f6ff&expirationTimestamp=1683032080699&signature=ZQNVOKhnNt1p7PeaMSEkdxrbildydlJ7Zz_HFfiBXhc" width="5%" height="5%">
       <br>
