@@ -49,9 +49,9 @@
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
       <img src="https://as2.ftcdn.net/v2/jpg/03/83/09/19/1000_F_383091993_9XH0em7Fz1LPNVe9YjdtowDFyPdCGWPF.jpg" width="5%" height="5%">
       <br>
-      <a href="https://www.notion.so/85dac6df6fc547698c1b1bcd32059c6a">&nbsp;영화 추천</a>
+      <a href="https://typical-engine-3ae.notion.site/85dac6df6fc547698c1b1bcd32059c6a">&nbsp;영화 추천</a>
       &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
-      <a href="https://www.notion.so/b4b5546ce66b47d9be86bab4f1852b63?pvs=4">&ensp;방구석포차</a>
+      <a href="https://typical-engine-3ae.notion.site/b4b5546ce66b47d9be86bab4f1852b63">&ensp;방구석포차</a>
       &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
       <a href="https://typical-engine-3ae.notion.site/caae1a54ce08460aa66f2edff5a74b37">&ensp;홍민정음</a>
      
