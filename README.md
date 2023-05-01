@@ -19,7 +19,7 @@
     youtubeSite: "https://www.youtube.com/@hminor3510"
     coed: ["Python", "JavaScript"],
     askMeAbout: ["Developer", "Front-End", "Musician", "Youtuber"],
-    projects: ["레트로 영화 추천 웹 페이지", "방구석포차"], 
+    projects: ["레트로 영화 추천 웹 페이지", "방구석포차", "홍민정음"], 
  }
  
  ```
