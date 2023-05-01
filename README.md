@@ -46,10 +46,14 @@
       <img src="https://media.tenor.com/2Ev0q5G3lGEAAAAC/film-bind.gif" width="5%" height="5%"> 
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
       <img src="https://file.notion.so/f/s/d3722777-2425-4a01-a1ac-2bbb8ee194a4/soju.e87a944c950d7df0c63d.gif?id=b4b5546c-e66b-47d9-be86-bab4f1852b63&table=block&spaceId=43abc793-c049-4132-a5f3-a88e4151f6ff&expirationTimestamp=1683032080699&signature=ZQNVOKhnNt1p7PeaMSEkdxrbildydlJ7Zz_HFfiBXhc" width="5%" height="5%">
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+      <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6e50164f-d2aa-4e2b-a912-647afb4dff06%2Ffree-icon-sejong-the-great-5789303.png?table=block&id=caae1a54-ce08-460a-a66f-2edff5a74b37&spaceId=43abc793-c049-4132-a5f3-a88e4151f6ff&width=250&userId=d5ec7861-c0c7-441e-926e-221d844d6f29&cache=v2" width="5%" height="5%">
       <br>
       <a href="https://www.notion.so/85dac6df6fc547698c1b1bcd32059c6a">&nbsp;영화 추천</a>
       &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
       <a href="https://www.notion.so/b4b5546ce66b47d9be86bab4f1852b63?pvs=4">&ensp;방구석포차</a>
+      &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
+      <a href="https://www.notion.so/b4b5546ce66b47d9be86bab4f1852b63?pvs=4">&ensp;홍민정음</a>
      
     
   </div>
