@@ -53,7 +53,7 @@
       &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
       <a href="https://www.notion.so/b4b5546ce66b47d9be86bab4f1852b63?pvs=4">&ensp;방구석포차</a>
       &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
-      <a href="https://www.notion.so/b4b5546ce66b47d9be86bab4f1852b63?pvs=4">&ensp;홍민정음</a>
+      <a href="https://typical-engine-3ae.notion.site/caae1a54ce08460aa66f2edff5a74b37">&ensp;홍민정음</a>
      
     
   </div>
