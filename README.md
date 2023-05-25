@@ -46,7 +46,7 @@
       <img src="https://media.tenor.com/2Ev0q5G3lGEAAAAC/film-bind.gif" width="5%" height="5%"> 
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
       <img src="https://file.notion.so/f/s/d3722777-2425-4a01-a1ac-2bbb8ee194a4/soju.e87a944c950d7df0c63d.gif?id=b4b5546c-e66b-47d9-be86-bab4f1852b63&table=block&spaceId=43abc793-c049-4132-a5f3-a88e4151f6ff&expirationTimestamp=1683032080699&signature=ZQNVOKhnNt1p7PeaMSEkdxrbildydlJ7Zz_HFfiBXhc" width="5%" height="5%">
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
       <img src="https://as2.ftcdn.net/v2/jpg/03/56/57/85/1000_F_356578558_AWxgWNZoRxB9UAp4OjPoPcgUQxsi2U83.jpg" width="5%" height="5%">
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
       <img src="https://img.lovepik.com/element/40217/1929.png_1200.png" width="5%" height="5%">
