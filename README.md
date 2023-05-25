@@ -49,7 +49,7 @@
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
       <img src="https://as2.ftcdn.net/v2/jpg/03/56/57/85/1000_F_356578558_AWxgWNZoRxB9UAp4OjPoPcgUQxsi2U83.jpg" width="5%" height="5%">
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
-      <img src="https://img.lovepik.com/element/40217/1929.png_1200.png" width="5%" height="5%">
+      <img src="https://media.tenor.com/29Mz-JBznvAAAAAi/thedigitalmoney-stock.gif" width="5%" height="5%">
       <br>
       <a href="https://www.notion.so/85dac6df6fc547698c1b1bcd32059c6a?pvs=4">&nbsp;영화 추천</a>
       &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
