@@ -46,9 +46,9 @@
       <img src="https://media.tenor.com/2Ev0q5G3lGEAAAAC/film-bind.gif" width="5%" height="5%"> 
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
       <img src="https://media.tenor.com/8PSTyxIBxH0AAAAj/clinking-beer-mugs-joypixels.gif" width="5%" height="5%">
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
       <img src="https://media.tenor.com/cJ1K7nrIYTgAAAAi/%ED%95%9C%EA%B8%80%EB%82%A0-%ED%95%9C%EA%B8%80%EB%82%A0%EC%9D%98.gif" width="5%" height="5%">
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
       <img src="https://media.tenor.com/29Mz-JBznvAAAAAi/thedigitalmoney-stock.gif" width="5%" height="5%">
       <br>
       <a href="https://www.notion.so/85dac6df6fc547698c1b1bcd32059c6a?pvs=4">&nbsp;영화 추천</a>
