@@ -16,10 +16,10 @@
     age: 30,
     gender: Male,
     email: "ghdals2002@naver.com",
-    youtubeSite: "https://www.youtube.com/@hminor3510",
-    code: ["JavaScript", "React", "TypeScript", "Python", "ThreeJS"],
-    askMeAbout: ["Developer", "Front-End", "Musician", "Youtuber"],
     projects: ["레트로 영화 추천 웹 페이지", "방구석포차", "홍민정음", "모두의주식"], 
+    code: ["JavaScript", "React", "TypeScript", "Python", "ThreeJS"],
+    youtubeSite: "https://www.youtube.com/@hminor3510",
+    askMeAbout: ["Developer", "Front-End", "Musician", "Youtuber"],
  }
  
  ```
