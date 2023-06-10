@@ -13,8 +13,9 @@
     aboutMe: "어제보다 더 높은 목표를 향해가는 프론트엔드 개발자",
     education: "삼성 청년 SW 아카데미 8기",
     email: "ghdals2002@naver.com",
-    projects: ["모두의주식", "홍민정음", "방구석포차", "레트로 영화 추천 웹 페이지"], 
-    code: ["React", "JavaScript", "TypeScript", "Python", "ThreeJS"],
+    projects: ["모두의주식", "홍민정음", "방구석포차", "레트로 영화 추천 웹 페이지"],
+    portpolio: "https://typical-engine-3ae.notion.site/IT-7ab3c12d15d2494dafc10369219cfea5?pvs=4",
+    IT_blog: "https://hminor.tistory.com/"
  }
  
  ```
