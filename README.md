@@ -19,9 +19,7 @@
  }
  
  ```
- 
- 
- 
+<br/> 
 ## 🛠 Tech Stack
 <br>
   <div align="center"> 
