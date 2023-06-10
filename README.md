@@ -20,20 +20,7 @@
  ```
 
 <div>
-  <br>
-  <p align="center">Tech Stack</p>
-  <div align="center"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-circle&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-circle&logo=JavaScript&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-circle&logo=HTML5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-circle&logo=CSS3&logoColor=white">
-    <br>
-    <br>
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="59" height="59" />
-    <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="59" height="59" />
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="59" height="59" />
-    
-  </div>
+  
   <div align="center">
     <br>
     <p>Projects</p> 
