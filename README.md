@@ -2,11 +2,12 @@
   <div>  
     <img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=KHminor's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
   </div>
+  <br/>
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="21%">
 </div> 
 
  # Front-End Engineer 김홍민 ✌
- ## 🎤Introduce
+ 
  ```javascript
  const KHminor = {
     name: 김홍민,
