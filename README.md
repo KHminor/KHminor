@@ -11,13 +11,11 @@
 </div> 
 <br>
 
- 
 ## 🎤Introduce
- - 🙋‍♂️ 언제나 성장하고자 하는 백엔드 개발자
- - 🏫 부경대학교 컴퓨터공학과 16학번 졸업
- - 8️⃣ 삼성 청년 SW 아카데미(SSAFY) 8기 우수 교육생
- - 📫 susu4788@naver.com
- - 📙 [노션 포트폴리오](https://honeysuckle-nova-d4d.notion.site/NamGyu-Kim-c77e01b56bd24bc8b744205c8089ef76)
+ - 🔅 어제보다 더 높은 목표를 향해가는 프론트엔드 개발자
+ - 8️⃣ 삼성 청년 SW 아카데미(SSAFY) 8기 교육생
+ - 📫 [블로그](https://hminor.tistory.com/)
+ - 📙 [포트폴리오](https://typical-engine-3ae.notion.site/IT-7ab3c12d15d2494dafc10369219cfea5?pvs=4)
   
 <div>
   <br>
