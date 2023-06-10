@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=KHminor's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
   </div>
   <br/>
-<!--   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="21%"> -->
+  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="21%">
 </div> 
 
  
@@ -20,11 +20,8 @@
  ```
 
 <div>
-  
   <div align="center">
-    <br>
-    <p>Projects</p> 
-    <div>
+      <div>
       <img src="https://media.tenor.com/2Ev0q5G3lGEAAAAC/film-bind.gif" width="5%" height="5%"> 
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
       <img src="https://media.tenor.com/8PSTyxIBxH0AAAAj/clinking-beer-mugs-joypixels.gif" width="5%" height="5%">
