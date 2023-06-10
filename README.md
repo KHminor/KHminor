@@ -31,9 +31,9 @@
     <img src="https://img.shields.io/badge/React-3776AB?style=flat-square&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/Redux-2496ED?style=flat-square&logo=Redux&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-D24939?style=flat-square&logo=TypeScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ThreeJS-FCC624?style=flat-square&logo=ThreeJS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Threejs-FCC624?style=flat-square&logo=Threejs&logoColor=white"/>
     <img src="https://img.shields.io/badge/Blender-009639?style=flat-square&logo=Blender&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TailWind-0052CC?style=flat-square&logo=TailWind&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind-0052CC?style=flat-square&logo=Tailwind&logoColor=white"/>
   </div>
 
 
