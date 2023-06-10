@@ -16,7 +16,6 @@
     email: "ghdals2002@naver.com",
     projects: ["모두의주식", "홍민정음", "방구석포차", "레트로 영화 추천 웹 페이지"], 
     code: ["React", "JavaScript", "TypeScript", "Python", "ThreeJS"],
-    youtubeSite: "https://www.youtube.com/@hminor3510",
  }
  
  ```
