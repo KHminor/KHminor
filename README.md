@@ -31,11 +31,9 @@
     <img src="https://img.shields.io/badge/React-3776AB?style=flat-square&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/Redux-2496ED?style=flat-square&logo=Redux&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-D24939?style=flat-square&logo=TypeScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ThreeJS-FCC624?style=flat-square&logo=ThreeJS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Blender-009639?style=flat-square&logo=Blender&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TailWind-0052CC?style=flat-square&logo=TailWind&logoColor=white"/>
   </div>
 
 
