@@ -44,6 +44,6 @@
   </div>
 </div>
 
-<p align="center">
+<div align="center" width="100%">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
-</p>
+</div>
