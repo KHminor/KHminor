@@ -18,12 +18,25 @@
  }
  
  ```
+## Tech Stack
+<br>
+  <p align="center">Tech Stack</p>
+  <div align="center"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-circle&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-circle&logo=JavaScript&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-circle&logo=HTML5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-circle&logo=CSS3&logoColor=white">
+    <br>
+    <br>
+   
+  </div>
+
 
 ## Project
 
 <div>
   <div align="center">
-      <div>
+    <div>
       <img src="https://media.tenor.com/2Ev0q5G3lGEAAAAC/film-bind.gif" width="5%" height="5%"> 
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
       <img src="https://media.tenor.com/8PSTyxIBxH0AAAAj/clinking-beer-mugs-joypixels.gif" width="5%" height="5%">
@@ -39,11 +52,9 @@
       <a href="https://www.notion.so/caae1a54ce08460aa66f2edff5a74b37?pvs=4">&ensp;홍민정음</a>
       &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
       <a href="https://www.notion.so/aa3c8f0a64c34a47a963936f50532eb7?pvs=4">&ensp;모두의주식</a>
-     
-    
   </div>
 </div>
 
-<div align="center" width="100%">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </div>
