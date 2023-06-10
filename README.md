@@ -6,23 +6,14 @@
   <br>  
   프론트엔드 개발자 김홍민입니다.
   <br>
+  <div width="79%">
+    <span>이름: 김홍민</span>  
+  <div>
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="21%">
 </div> 
 <br>
 
- ```javascript
- const KHminor = {
-    name: 김홍민,
-    age: 30,
-    gender: Male,
-    email: "ghdals2002@naver.com",
-    projects: ["모두의주식", "홍민정음", "방구석포차", "레트로 영화 추천 웹 페이지"], 
-    code: ["React", "JavaScript", "TypeScript", "Python", "ThreeJS"],
-    youtubeSite: "https://www.youtube.com/@hminor3510",
-    askMeAbout: ["Developer", "Front-End", "Musician", "Youtuber"],
- }
- 
- ```
+
 
 <div>
   <br>
