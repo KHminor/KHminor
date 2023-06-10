@@ -11,12 +11,17 @@
 </div> 
 <br>
 
-## 🎤Introduce
+## 🎤 Introduce
  - 🔅 어제보다 더 높은 목표를 향해가는 프론트엔드 개발자
  - 8️⃣ 삼성 청년 SW 아카데미(SSAFY) 8기 교육생
  - 📙 [포트폴리오](https://typical-engine-3ae.notion.site/IT-7ab3c12d15d2494dafc10369219cfea5?pvs=4)
  - 📫 [블로그](https://hminor.tistory.com/)
  
+ ## 🛠 Tech Stack
+ - 🔅 어제보다 더 높은 목표를 향해가는 프론트엔드 개발자
+ - 8️⃣ 삼성 청년 SW 아카데미(SSAFY) 8기 교육생
+ - 📙 [포트폴리오](https://img.shields.io/badge/Python-3776AB?style=for-the-circle&logo=Python&logoColor=white)
+ - 📫 [블로그](https://hminor.tistory.com/)
   
 <div>
   <br>
