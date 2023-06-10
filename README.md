@@ -6,13 +6,14 @@
   <br>  
   프론트엔드 개발자 김홍민입니다.
   <br>
-  <div width="79%">
-    <span>이름: 김홍민</span>  
-  <div>
+  
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="21%">
 </div> 
 <br>
-
+<div width="79%">
+    <span>이름: 김홍민</span>  
+<div>
+ 
 
 
 <div>
