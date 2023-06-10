@@ -6,23 +6,24 @@
   <br>  
   프론트엔드 개발자 김홍민입니다.
   <br>
-  
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="21%">
 </div> 
 <br>
 
-## 🎤 Introduce
- - 🔅 어제보다 더 높은 목표를 향해가는 프론트엔드 개발자
- - 8️⃣ 삼성 청년 SW 아카데미(SSAFY) 8기 교육생
- - 📙 [포트폴리오](https://typical-engine-3ae.notion.site/IT-7ab3c12d15d2494dafc10369219cfea5?pvs=4)
- - 📫 [블로그](https://hminor.tistory.com/)
+ ```javascript
+ const KHminor = {
+    name: 김홍민,
+    age: 30,
+    gender: Male,
+    email: "ghdals2002@naver.com",
+    projects: ["모두의주식", "홍민정음", "방구석포차", "레트로 영화 추천 웹 페이지"], 
+    code: ["React", "JavaScript", "TypeScript", "Python", "ThreeJS"],
+    youtubeSite: "https://www.youtube.com/@hminor3510",
+    askMeAbout: ["Developer", "Front-End", "Musician", "Youtuber"],
+ }
  
- ## 🛠 Tech Stack
- - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-circle&logo=Python&logoColor=white"> - <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="59" height="59" />
- - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-circle&logo=JavaScript&logoColor=white">
- - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-circle&logo=HTML5&logoColor=white">
- - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-circle&logo=CSS3&logoColor=white">
-  
+ ```
+
 <div>
   <br>
   <p align="center">Tech Stack</p>
