@@ -28,9 +28,9 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-circle&logo=CSS3&logoColor=white">
     <br>
     <br>
-    <img src="https://img.shields.io/badge/React-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Redux-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TypeScript-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-3776AB?style=flat-square&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redux-2496ED?style=flat-square&logo=Redux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-D24939?style=flat-square&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
     <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
