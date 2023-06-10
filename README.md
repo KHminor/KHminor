@@ -18,7 +18,7 @@
  }
  
  ```
-## Tech Stack
+## 🛠 Tech Stack
 <br>
   <p align="center">Tech Stack</p>
   <div align="center"> 
@@ -28,11 +28,18 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-circle&logo=CSS3&logoColor=white">
     <br>
     <br>
-   
+    <img src="https://img.shields.io/badge/React-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redux-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white"/>
   </div>
 
 
-## Project
+## ✨ Project
 
 <div>
   <div align="center">
