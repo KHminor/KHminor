@@ -70,7 +70,7 @@
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
       <img src="https://media.tenor.com/cJ1K7nrIYTgAAAAi/%ED%95%9C%EA%B8%80%EB%82%A0-%ED%95%9C%EA%B8%80%EB%82%A0%EC%9D%98.gif" width="5%" height="5%">
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-      <img src="https://media.tenor.com/29Mz-JBznvAAAAAi/thedigitalmoney-stock.gif" width="5%" height="5%">
+      <img src="https://cdn.dribbble.com/users/1330777/screenshots/15577912/media/3441c6b4d1427a5e54d2b53607891a71.gif" width="5%" height="5%">
       <br>
       <a href="https://www.notion.so/85dac6df6fc547698c1b1bcd32059c6a?pvs=4">&nbsp;영화 추천</a>
       &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
@@ -78,7 +78,7 @@
       &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
       <a href="https://www.notion.so/caae1a54ce08460aa66f2edff5a74b37?pvs=4">&ensp;홍민정음</a>
       &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
-      <a href="https://cdn.dribbble.com/users/1330777/screenshots/15577912/media/3441c6b4d1427a5e54d2b53607891a71.gif">&ensp;모두의주식</a>
+      <a href="https://general-library-f31.notion.site/aa3c8f0a64c34a47a963936f50532eb7?pvs=74">&ensp;모두의주식</a>
   </div>
 </div>
 
