@@ -78,7 +78,7 @@
       &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
       <a href="https://www.notion.so/caae1a54ce08460aa66f2edff5a74b37?pvs=4">&ensp;홍민정음</a>
       &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
-      <a href="https://www.notion.so/aa3c8f0a64c34a47a963936f50532eb7?pvs=4">&ensp;모두의주식</a>
+      <a href="https://cdn.dribbble.com/users/1330777/screenshots/15577912/media/3441c6b4d1427a5e54d2b53607891a71.gif">&ensp;모두의주식</a>
   </div>
 </div>
 
